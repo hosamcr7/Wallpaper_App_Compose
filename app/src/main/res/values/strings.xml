@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wallpaper Compose</string>
+    <string name="search_wallpaper">Search Wallpaper ....</string>
+    <string name="best_of_the_month">Best of the month</string>
+    <string name="color_tone">The color tone</string>
+    <string name="categories">Categories</string>
+    <string name="get_premium">Get Premium</string>
+    <string name="my_favorite">My Favorite</string>
+    <string name="confirm">Confirm</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="more">More</string>
+    <string name="about_wallpaper">About This Wallpaper</string>
+    <string name="about_photographer">This photo taken by %1$s!. To get more information about this wallpaper tap more button </string>
+    <string name="no_wallpaper">No wallpapers to show</string>
+</resources>
